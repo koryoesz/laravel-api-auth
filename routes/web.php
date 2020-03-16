@@ -20,6 +20,9 @@ Route::post('/auth',  'AuthorizeController@authenticate');
 
 Route::get('/get-shoes', 'AuthorizeController@fetchShoes');
 
+Route::resource('shoes', 'ShoesController');
+Route::resource('users', 'usersController');
+
 Route::get('/logout', function()
 {
     Auth::logout();
