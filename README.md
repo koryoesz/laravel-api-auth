@@ -20,6 +20,14 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
+## Usage
+1. Install laravel
+2. Run Migrations
+3. Signup a user and log in
+Enjoy
+
+That's all, you are good to go.
+
 ## Contributing
 
 For contributions, you can send me an email on koryoesz@gmail.com
